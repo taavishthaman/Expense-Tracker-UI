@@ -1,4 +1,4 @@
 # Expense-Tracker-UI
 Expense Tracker UI using Flutter
 
-![alt text](https://github.com/TaavishThaman/Expense-Tracker-UI/blob/master/AppScreenshot.jpg?raw=true){:height="512px" width="364px"}
+![alt text](https://github.com/TaavishThaman/Expense-Tracker-UI/blob/master/AppScreenshot.jpg?raw=true)
